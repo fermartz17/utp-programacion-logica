@@ -44,19 +44,3 @@ Algoritmo ContarDelUnoAlDiez
 FinAlgoritmo
 ```
 
-## Casos de prueba sugeridos
-| Ejercicio | Entrada | Resultado esperado |
-|---|---|---|
-| Promedio | 80, 90, 100 | 90 |
-| Par/impar | 8 | Par |
-| Par/impar | 7 | Impar |
-| Conteo | Sin entrada | Números del 1 al 10 |
-
-## Actividades pendientes
-- [ ] Crear un algoritmo que calcule el área de un triángulo.
-- [ ] Crear una calculadora de cuatro operaciones con control de división entre cero.
-- [ ] Determinar el mayor de cuatro números.
-- [ ] Validar entradas y documentar pruebas.
-
-## Reflexión
-[Explica qué estructuras utilizaste, cómo verificaste los resultados y qué mejorarías.]
