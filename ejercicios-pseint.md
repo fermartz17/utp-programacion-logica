@@ -1,4 +1,4 @@
-# Ejercicios de lógica y PSeInt
+# Ejercicios en PSeInt
 
 ## Ejercicio 1: Promedio de tres calificaciones
 **Enunciado:** Leer tres calificaciones, calcular y mostrar el promedio aritmético.
